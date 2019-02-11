@@ -43,6 +43,7 @@ function initMap() {
   map.setMapTypeId('Plan');
 
 
+  /*
   alreadyCheckingBounds = false;
 
   function checkPlanBounds(){
@@ -91,4 +92,5 @@ function initMap() {
   map.addListener('maptypeid_changed', function() {
     checkPlanBounds()
   });
+  */
 }
